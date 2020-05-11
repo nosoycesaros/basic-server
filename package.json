@@ -9,9 +9,9 @@
     "sass": "node-sass -w sass -o public/css"
   },
   "author": "Cesaros",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
-    "node-sass": "^4.11.0"
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1"
   }
 }
