@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "dometizer": "1.1.2"
+    "dometizer": "^1.1.5"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
